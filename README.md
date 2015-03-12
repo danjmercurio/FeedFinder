@@ -1,0 +1,1 @@
+FeedFinder is a Python web crawler specifically designed to find and record RSS feeds. It uses a MySQL database to store and retrieve results. It can be invoked directly from the command line, or imported as the Finder object. 
