@@ -1,0 +1,21 @@
+Institution,Top Domain,Feed ,Research' Feed
+American University,www.american.edu,http://kogodnow.com/feed/,
+Arizona State University,www.asu.edu,https://asunews.asu.edu/taxonomy/term/455/all/feed,
+Arizona State University,www.asu.edu,https://research.asu.edu/rss.xml,
+Arizona State University,www.asu.edu,uanews.org/feed/rss/sci-tech,
+Arizona State University,www.asu.edu,http://researchmatters.asu.edu/taxonomy/term/398/0/feed,
+Arizona State University,www.asu.edu,http://researchmatters.asu.edu/taxonomy/term/824/0/feed,
+Gemini Observatory/AURA,http://www.gemini.edu,http://www.gemini.edu/,
+Georgia Institute of Technology,http://www.gatech.edu/,,http://feeds.feedburner.com/GeorgiaTechResearchNews
+University of Kansas,www.ku.edu,http://news.ku.edu/,
+National Institutes of Health,nih.gov,,http://www.nih.gov/researchmatters/feed.xml
+Penn State University,www.psu.edu,feeds.feedburner.com/ThePennStater,
+Penn State University,www.psu.edu,,http://news.psu.edu/rss/topic/research
+Penn State University,www.psu.edu,http://news.psu.edu/rss/college/eberly-college-of-science,
+Penn State University,www.psu.edu,http://news.psu.edu/rss/college/agricultural-sciences,
+Penn State University,www.psu.edu,http://us2.campaign-archive1.com/feed?u=31fa37dcd381c431886af5ad6&id=50fd643f23,
+Suny-ESF,www.esf.edu,,http://www.esf.edu/campusnewsfeed/research.xml
+"University of California, Berkeley",berkeley.edu,http://ourenvironment.berkeley.edu/feed/,
+"University of California, Berkeley",berkeley.edu,http://newscenter.berkeley.edu/feed/,
+"University of California, Berkeley",berkeley.edu,,http://newscenter.berkeley.edu/category/research/feed/
+University of Connecticut,www.uconn.edu,http://biodiversity.uconn.edu/feed/,
